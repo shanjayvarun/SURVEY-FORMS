@@ -1,0 +1,31 @@
+.email{
+    width:300px
+  }
+  .container{
+    background-color: orchid;
+    
+  }
+  .age{
+    width:60px;
+  }
+  .phone{
+    width:120px;
+  }
+  .reasons{
+    font-size:21px;
+  }
+  
+  .reasons1{
+    font-size:21px;
+  }
+  .submit{
+    text-align:center;
+    background-color:black;
+  }
+  .flea{
+    font-size:21px;
+  }
+  .status{
+    font-size:21px;
+  }
+  
